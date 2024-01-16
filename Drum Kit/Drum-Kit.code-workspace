@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Course/Web Dev/Drum Kit Starting Files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Drum-Kit"
+	}
+}
